@@ -59,11 +59,11 @@ Next was the hard part: Laying out the board. First, I planned the arrangement w
 
 Then, after a few hours of work, I replicated the whole design on the board. I also added most of the silkscreen graphics too. Here's what the final board I made looks like:
 
-![Board](https://halflife.hackclub-assets.com/sessions/WlipWVmF6UnTGNkVVXdowr37dB4xoM3o/4d340f46a6451435c58141783632da66d28b27fe86297d90ad4035b9f01480a5.png)
+![PCB](https://halflife.hackclub-assets.com/sessions/WlipWVmF6UnTGNkVVXdowr37dB4xoM3o/4d340f46a6451435c58141783632da66d28b27fe86297d90ad4035b9f01480a5.png)
 
-![PCB Front](https://halflife.hackclub-assets.com/sessions/WlipWVmF6UnTGNkVVXdowr37dB4xoM3o/0597483e4bbb48f43641f22a1d0bf88b1dba029e3c82c893e43910209d12ade3.png)
+![Board front](https://halflife.hackclub-assets.com/sessions/WlipWVmF6UnTGNkVVXdowr37dB4xoM3o/0597483e4bbb48f43641f22a1d0bf88b1dba029e3c82c893e43910209d12ade3.png)
 
-![PCB Back](https://halflife.hackclub-assets.com/sessions/WlipWVmF6UnTGNkVVXdowr37dB4xoM3o/245e1bc044fbe19265f4cd461df0a68611e422642aecf32542f6bc860d071e62.png)
+![Board back](https://halflife.hackclub-assets.com/sessions/WlipWVmF6UnTGNkVVXdowr37dB4xoM3o/245e1bc044fbe19265f4cd461df0a68611e422642aecf32542f6bc860d071e62.png)
 
 Next I'll add more graphics to the back of the board, since it's a little bare right now. Then I'll do the routing.
 
