@@ -1,0 +1,9 @@
+[project]
+name = "icosa-code"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "adafruit-circuitpython-neopixel>=6.4.2",
+    "adafruit-circuitpython-typing>=1.13.0",
+    "circuitpython-stubs>=10.3.1",
+]
