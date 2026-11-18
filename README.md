@@ -45,3 +45,14 @@ in Morse Code on the silkscreen, with an icosahedron in the middle.
 | Front | Back |
 | - | - |
 | ![front](images/board_front.png) | ![back](images/board_back.png) |
+
+## BOM
+
+Item  | Description  | Quantity  | Source  | Cost  | Amount
+--- | --- | --- | --- | --- | ---
+Seeed Studio XIAO RP2040 v1.0  |  Microcontroller  |  1  |  [Robu](https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/)  |  $5.60  |  $5.60
+WS2812B SMD 5050  |  Neopixel LEDs  |  28  |  [Punoscho](https://punoscho.in/pr-addressable-led/)  |  $0.07  |  $1.96
+6x6x5mm Tactile Push Button Switch  |  Buttons  |  7  |  [Robu](https://robu.in/product/6x6x5mm-tactile-push-button-switch-pack-of-20/)  |  $0.02  |  $0.14
+PCB  |  The board  |  1  |  [JLCPCB](https://jlcpcb.com/)  |  $4.00  |  $4.00
+Estimated total shipping  |  -  |  1  |  -  |  -  |  $11.47
+TOTAL  |  |  |  |  |  $23.17
